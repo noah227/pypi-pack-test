@@ -1,0 +1,18 @@
+[project]
+name = "pypi_test_noah227"
+version = "0.0.1"
+authors = [
+  { name="Noah Young", email="noah227@foxmail.com" },
+]
+description = "This is a test!"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/noah227/pypi-pack-test"
+"Bug Tracker" = "https://github.com/noah227/pypi-pack-test/issues"
